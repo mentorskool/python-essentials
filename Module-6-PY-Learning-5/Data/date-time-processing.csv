@@ -1,0 +1,10 @@
+trip_id,starttime,stoptime,bikeid,tripduration,from_station_id,from_station_name,to_station_id,to_station_name,usertype
+4118,27-06-2013 12:11,27-06-2013 12:16,480,316,85,Michigan Ave & Oak St,28,Larrabee St & Menomonee St,Customer
+4275,27-06-2013 14:44,27-06-2013 14:45,77,64,32,Racine Ave & Congress Pkwy,32,Racine Ave & Congress Pkwy,Customer
+4291,27-06-2013 14:58,27-06-2013 15:05,77,433,32,Racine Ave & Congress Pkwy,19,Loomis St & Taylor St,Customer
+4316,27-06-2013 15:06,27-06-2013 15:09,77,123,19,Loomis St & Taylor St,19,Loomis St & Taylor St,Customer
+4342,27-06-2013 15:13,27-06-2013 15:27,77,852,19,Loomis St & Taylor St,55,Halsted St & James M Rochford St,Customer
+4480,27-06-2013 19:40,27-06-2013 22:28,27,10105,340,Clark St & Wrightwood Ave,46,Wells St & Walton St,Customer
+4490,27-06-2013 18:45,27-06-2013 19:03,418,1094,37,Dearborn St & Adams St,76,Lake Shore Dr & Monroe St,Customer
+4592,27-06-2013 19:34,27-06-2013 19:51,170,1020,90,Millennium Park,75,Canal St & Jackson Blvd,Customer
+4602,27-06-2013 19:45,27-06-2013 20:42,353,3419,37,Dearborn St & Adams St,37,Dearborn St & Adams St,Customer
