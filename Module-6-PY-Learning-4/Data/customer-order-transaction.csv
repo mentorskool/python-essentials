@@ -1,0 +1,13 @@
+﻿transaction_id,order_id,customer_id,ship_mode,order_purchase_date,order_estimated_delivery_date,order_delivered_customer_date,Product ID,Category,Sub-Category,Product Name,Sales,Quantity,Discount Percentage,Profit
+100001,CA-2017-147039,AA-10315,First Class,6/19/18 17:33,7/25/2018,6/27/18 19:58,FUR-BO-10001798,Furniture,Bookcases,Bush Somerset Collection Bookcase,2000,2,2.5,500
+100002,CA-2017-147039,AA-10315,Standard Class,11/24/17 23:32,12-08-2017,12-05-2017 18:04,FUR-CH-10000454,Furniture,Chairs,"Hon Deluxe Fabric Upholstered Stacking Chairs, Rounded Back",700,3,5,219.58
+100003,CA-2017-147039,AA-10315,First Class,5/14/18 9:29,06-05-2018,5/23/18 21:06,OFF-LA-10000240,Office Supplies,Labels,Self-Adhesive Address Labels for Typewriters by Universal,15,2,9.5,6.8714
+100004,CA-2016-103982,AA-10375,Standard Class,04-09-2018 16:47,4/19/2018,04-12-2018 14:58,FUR-TA-10000577,Furniture,Tables,Bretford CR4500 Series Slim Rectangular Table,900,5,3.5,-383.031
+100005,CA-2016-103982,AA-10375,Standard Class,12-04-2017 18:07,2/13/2018,12/18/17 23:44,OFF-ST-10000760,Office Supplies,Storage,Eldon Fold 'N Roll Cart System,25,2,12.5,2.5164
+100006,CA-2016-103982,AA-10375,Standard Class,2/18/17 10:39,3/21/2017,3/21/17 8:37,FUR-FU-10001487,Furniture,Furnishings,"Eldon Expressions Wood and Plastic Desk Accessories, Cherry Wood",50,7,4.5,14.1694
+100007,CA-2016-103982,AA-10375,Standard Class,11/18/17 20:19,12/14/2017,11/27/17 20:15,OFF-AR-10002833,Office Supplies,Art,Newell 322,10,4,11.5,1.9656
+100008,CA-2014-158064,AA-10480,First Class,11-09-2017 13:00,11/29/2017,11/21/17 18:42,TEC-PH-10002275,Furniture,Phones,Mitel 5320 IP Phone VoIP phone,500,6,20,-90.7152
+100009,CA-2014-158064,AA-10480,First Class,06-12-2018 21:44,7/18/2018,6/26/18 21:34,OFF-BI-10003910,Office Supplies,Binders,DXL Angle-View Binders with Locking Rings by Samsill,20,3,15,5.7825
+100010,CA-2016-131065,AB-10060,First Class,7/27/17 8:45,8/16/2017,08-03-2017 18:33,OFF-AP-10002892,Office Supplies,Appliances,Belkin F5C206VTEL 6 Outlet Surge,150,5,18.5,34.47
+100011,CA-2014-130729,AB-10165,First Class,10-02-2017 19:04,10/30/2017,10/26/17 1:58,FUR-TA-10001539,Furniture,Tables,Chromcraft Rectangular Conference Tables,200,9,2.5,85.3092
+100012,CA-2014-130729,AB-10165,Standard Class,2/15/18 23:09,03-12-2018,2/28/18 22:13,TEC-PH-10002033,Office Supplies,Phones,Konftel 250 Conference phone - Charcoal black,1200,4,25,-68.3568
